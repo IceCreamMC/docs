@@ -5,4 +5,4 @@ IceCreamMC is a fork of Purpur, focused on using the original Purpur jar and add
 ### Contributers
 > ![Lezetho](https://avatars.githubusercontent.com/u/126505858?s=70&v=4)‎ ‎ ‎ ![Pancakse](https://avatars.githubusercontent.com/u/84547061?s=70&v=4)
 > </br>
-> ‎  Lezetho‎ ‎  ‎ ‎ ‎  ‎‎‎ Pancakse
+> ‎  Lezetho‎ ‎  ‎ ‎ ‎  ‎‎‎ ‎‎‎ Pancakse
