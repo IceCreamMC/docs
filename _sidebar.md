@@ -1,2 +1,2 @@
-- [Read Me](README)
+- [IceCreamMC](README)
 - [Example Second Page](second-page)
